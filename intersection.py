@@ -1,3 +1,9 @@
+
+#this is an exercise in finding intersection numbers between two lists.
+#for example: input1= [2,3,4,5,6,7]
+#input 2=[2,3,4]
+#output will be [2,3,4]
+
 def intersection(list_1, list_2):
     intersect = []
 
